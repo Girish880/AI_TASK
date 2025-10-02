@@ -1,0 +1,91 @@
+{
+  "run_id": "1eb00fe0-0548-4b3e-aa2a-12de6bb4042d",
+  "summary": {
+    "total_tests": 10,
+    "passed": 5,
+    "failed": 5,
+    "pass_rate": "50.0%"
+  },
+  "results": [
+    {
+      "test_case": "1. {\"test_case\": \"Validate that the game loads and is playable\", \"priority\": \"high\"}\n2. {\"test_case\": \"Confirm that the matchstick puzzle can be solved in 2 steps\", \"priority\": \"high\"}\n3. {\"test_case\": \"Verify that the 2 possible solutions for Matchstick Puzzle 8 are accepted as correct\", \"priority\": \"high\"}\n4. {\"test_case\": \"Check if the UI adjusts well to different screen resolutions\", \"priority\": \"high\"}\n5. {\"test_case\": \"Check if the game handles incorrect solutions properly\", \"priority\": \"medium\"}\n6. {\"test_case\": \"Verify that the game does not accept more than 2 steps for a solution\", \"priority\": \"medium\"}\n7. {\"test_case\": \"Verify that the game correctly identifies when the puzzle is solved\", \"priority\": \"medium\"}\n8. {\"test_case\": \"Check if game timer resets after each puzzle\", \"priority\": \"medium\"}\n9. {\"test_case\": \"Check if the game recognizes when no more moves are possible\", \"priority\": \"low\"}\n10. {\"test_case\": \"Confirm that the game saves progress if a user exits and returns\", \"priority\": \"low\"}",
+      "priority": "high",
+      "status": "passed",
+      "artifacts": {
+        "screenshot": "C:\\Users\\Girish\\OneDrive\\Desktop\\rag\\artifacts\\1eb00fe0-0548-4b3e-aa2a-12de6bb4042d_1____test_case_.png"
+      }
+    },
+    {
+      "test_case": "1. {\"test_case\": \"Validate that the game loads and is playable\", \"priority\": \"high\"}\n2. {\"test_case\": \"Confirm that the matchstick puzzle can be solved in 2 steps\", \"priority\": \"high\"}\n3. {\"test_case\": \"Verify that the 2 possible solutions for Matchstick Puzzle 8 are accepted as correct\", \"priority\": \"high\"}\n4. {\"test_case\": \"Check if the UI adjusts well to different screen resolutions\", \"priority\": \"high\"}\n5. {\"test_case\": \"Check if the game handles incorrect solutions properly\", \"priority\": \"medium\"}\n6. {\"test_case\": \"Verify that the game does not accept more than 2 steps for a solution\", \"priority\": \"medium\"}\n7. {\"test_case\": \"Verify that the game correctly identifies when the puzzle is solved\", \"priority\": \"medium\"}\n8. {\"test_case\": \"Check if game timer resets after each puzzle\", \"priority\": \"medium\"}\n9. {\"test_case\": \"Check if the game recognizes when no more moves are possible\", \"priority\": \"low\"}\n10. {\"test_case\": \"Confirm that the game saves progress if a user exits and returns\", \"priority\": \"low\"}",
+      "priority": "high",
+      "status": "passed",
+      "artifacts": {
+        "screenshot": "C:\\Users\\Girish\\OneDrive\\Desktop\\rag\\artifacts\\1eb00fe0-0548-4b3e-aa2a-12de6bb4042d_1____test_case_.png"
+      }
+    },
+    {
+      "test_case": "1. {\"test_case\": \"Validate that the game loads and is playable\", \"priority\": \"high\"}\n2. {\"test_case\": \"Confirm that the matchstick puzzle can be solved in 2 steps\", \"priority\": \"high\"}\n3. {\"test_case\": \"Verify that the 2 possible solutions for Matchstick Puzzle 8 are accepted as correct\", \"priority\": \"high\"}\n4. {\"test_case\": \"Check if the UI adjusts well to different screen resolutions\", \"priority\": \"high\"}\n5. {\"test_case\": \"Check if the game handles incorrect solutions properly\", \"priority\": \"medium\"}\n6. {\"test_case\": \"Verify that the game does not accept more than 2 steps for a solution\", \"priority\": \"medium\"}\n7. {\"test_case\": \"Verify that the game correctly identifies when the puzzle is solved\", \"priority\": \"medium\"}\n8. {\"test_case\": \"Check if game timer resets after each puzzle\", \"priority\": \"medium\"}\n9. {\"test_case\": \"Check if the game recognizes when no more moves are possible\", \"priority\": \"low\"}\n10. {\"test_case\": \"Confirm that the game saves progress if a user exits and returns\", \"priority\": \"low\"}",
+      "priority": "high",
+      "status": "passed",
+      "artifacts": {
+        "screenshot": "C:\\Users\\Girish\\OneDrive\\Desktop\\rag\\artifacts\\1eb00fe0-0548-4b3e-aa2a-12de6bb4042d_1____test_case_.png"
+      }
+    },
+    {
+      "test_case": "1. {\"test_case\": \"Validate that the game loads and is playable\", \"priority\": \"high\"}\n2. {\"test_case\": \"Confirm that the matchstick puzzle can be solved in 2 steps\", \"priority\": \"high\"}\n3. {\"test_case\": \"Verify that the 2 possible solutions for Matchstick Puzzle 8 are accepted as correct\", \"priority\": \"high\"}\n4. {\"test_case\": \"Check if the UI adjusts well to different screen resolutions\", \"priority\": \"high\"}\n5. {\"test_case\": \"Check if the game handles incorrect solutions properly\", \"priority\": \"medium\"}\n6. {\"test_case\": \"Verify that the game does not accept more than 2 steps for a solution\", \"priority\": \"medium\"}\n7. {\"test_case\": \"Verify that the game correctly identifies when the puzzle is solved\", \"priority\": \"medium\"}\n8. {\"test_case\": \"Check if game timer resets after each puzzle\", \"priority\": \"medium\"}\n9. {\"test_case\": \"Check if the game recognizes when no more moves are possible\", \"priority\": \"low\"}\n10. {\"test_case\": \"Confirm that the game saves progress if a user exits and returns\", \"priority\": \"low\"}",
+      "priority": "high",
+      "status": "passed",
+      "artifacts": {
+        "screenshot": "C:\\Users\\Girish\\OneDrive\\Desktop\\rag\\artifacts\\1eb00fe0-0548-4b3e-aa2a-12de6bb4042d_1____test_case_.png"
+      }
+    },
+    {
+      "test_case": "1. {\"test_case\": \"Validate that the game loads and is playable\", \"priority\": \"high\"}\n2. {\"test_case\": \"Confirm that the matchstick puzzle can be solved in 2 steps\", \"priority\": \"high\"}\n3. {\"test_case\": \"Verify that the 2 possible solutions for Matchstick Puzzle 8 are accepted as correct\", \"priority\": \"high\"}\n4. {\"test_case\": \"Check if the UI adjusts well to different screen resolutions\", \"priority\": \"high\"}\n5. {\"test_case\": \"Check if the game handles incorrect solutions properly\", \"priority\": \"medium\"}\n6. {\"test_case\": \"Verify that the game does not accept more than 2 steps for a solution\", \"priority\": \"medium\"}\n7. {\"test_case\": \"Verify that the game correctly identifies when the puzzle is solved\", \"priority\": \"medium\"}\n8. {\"test_case\": \"Check if game timer resets after each puzzle\", \"priority\": \"medium\"}\n9. {\"test_case\": \"Check if the game recognizes when no more moves are possible\", \"priority\": \"low\"}\n10. {\"test_case\": \"Confirm that the game saves progress if a user exits and returns\", \"priority\": \"low\"}",
+      "priority": "high",
+      "status": "passed",
+      "artifacts": {
+        "screenshot": "C:\\Users\\Girish\\OneDrive\\Desktop\\rag\\artifacts\\1eb00fe0-0548-4b3e-aa2a-12de6bb4042d_1____test_case_.png"
+      }
+    },
+    {
+      "test_case": "1. {\"test_case\": \"Validate that the game loads and is playable\", \"priority\": \"high\"}\n2. {\"test_case\": \"Confirm that the matchstick puzzle can be solved in 2 steps\", \"priority\": \"high\"}\n3. {\"test_case\": \"Verify that the 2 possible solutions for Matchstick Puzzle 8 are accepted as correct\", \"priority\": \"high\"}\n4. {\"test_case\": \"Check if the UI adjusts well to different screen resolutions\", \"priority\": \"high\"}\n5. {\"test_case\": \"Check if the game handles incorrect solutions properly\", \"priority\": \"medium\"}\n6. {\"test_case\": \"Verify that the game does not accept more than 2 steps for a solution\", \"priority\": \"medium\"}\n7. {\"test_case\": \"Verify that the game correctly identifies when the puzzle is solved\", \"priority\": \"medium\"}\n8. {\"test_case\": \"Check if game timer resets after each puzzle\", \"priority\": \"medium\"}\n9. {\"test_case\": \"Check if the game recognizes when no more moves are possible\", \"priority\": \"low\"}\n10. {\"test_case\": \"Confirm that the game saves progress if a user exits and returns\", \"priority\": \"low\"}",
+      "priority": "high",
+      "status": "failed",
+      "artifacts": {
+        "error": "Page.goto: Target page, context or browser has been closed\nCall log:\n  - navigating to \"https://play.ezygamers.com/\", waiting until \"load\"\n"
+      }
+    },
+    {
+      "test_case": "1. {\"test_case\": \"Validate that the game loads and is playable\", \"priority\": \"high\"}\n2. {\"test_case\": \"Confirm that the matchstick puzzle can be solved in 2 steps\", \"priority\": \"high\"}\n3. {\"test_case\": \"Verify that the 2 possible solutions for Matchstick Puzzle 8 are accepted as correct\", \"priority\": \"high\"}\n4. {\"test_case\": \"Check if the UI adjusts well to different screen resolutions\", \"priority\": \"high\"}\n5. {\"test_case\": \"Check if the game handles incorrect solutions properly\", \"priority\": \"medium\"}\n6. {\"test_case\": \"Verify that the game does not accept more than 2 steps for a solution\", \"priority\": \"medium\"}\n7. {\"test_case\": \"Verify that the game correctly identifies when the puzzle is solved\", \"priority\": \"medium\"}\n8. {\"test_case\": \"Check if game timer resets after each puzzle\", \"priority\": \"medium\"}\n9. {\"test_case\": \"Check if the game recognizes when no more moves are possible\", \"priority\": \"low\"}\n10. {\"test_case\": \"Confirm that the game saves progress if a user exits and returns\", \"priority\": \"low\"}",
+      "priority": "high",
+      "status": "failed",
+      "artifacts": {
+        "error": "Page.goto: net::ERR_ABORTED; maybe frame was detached?\nCall log:\n  - navigating to \"https://play.ezygamers.com/\", waiting until \"load\"\n"
+      }
+    },
+    {
+      "test_case": "1. {\"test_case\": \"Validate that the game loads and is playable\", \"priority\": \"high\"}\n2. {\"test_case\": \"Confirm that the matchstick puzzle can be solved in 2 steps\", \"priority\": \"high\"}\n3. {\"test_case\": \"Verify that the 2 possible solutions for Matchstick Puzzle 8 are accepted as correct\", \"priority\": \"high\"}\n4. {\"test_case\": \"Check if the UI adjusts well to different screen resolutions\", \"priority\": \"high\"}\n5. {\"test_case\": \"Check if the game handles incorrect solutions properly\", \"priority\": \"medium\"}\n6. {\"test_case\": \"Verify that the game does not accept more than 2 steps for a solution\", \"priority\": \"medium\"}\n7. {\"test_case\": \"Verify that the game correctly identifies when the puzzle is solved\", \"priority\": \"medium\"}\n8. {\"test_case\": \"Check if game timer resets after each puzzle\", \"priority\": \"medium\"}\n9. {\"test_case\": \"Check if the game recognizes when no more moves are possible\", \"priority\": \"low\"}\n10. {\"test_case\": \"Confirm that the game saves progress if a user exits and returns\", \"priority\": \"low\"}",
+      "priority": "high",
+      "status": "failed",
+      "artifacts": {
+        "error": "Page.goto: net::ERR_ABORTED; maybe frame was detached?\nCall log:\n  - navigating to \"https://play.ezygamers.com/\", waiting until \"load\"\n"
+      }
+    },
+    {
+      "test_case": "1. {\"test_case\": \"Validate that the game loads and is playable\", \"priority\": \"high\"}\n2. {\"test_case\": \"Confirm that the matchstick puzzle can be solved in 2 steps\", \"priority\": \"high\"}\n3. {\"test_case\": \"Verify that the 2 possible solutions for Matchstick Puzzle 8 are accepted as correct\", \"priority\": \"high\"}\n4. {\"test_case\": \"Check if the UI adjusts well to different screen resolutions\", \"priority\": \"high\"}\n5. {\"test_case\": \"Check if the game handles incorrect solutions properly\", \"priority\": \"medium\"}\n6. {\"test_case\": \"Verify that the game does not accept more than 2 steps for a solution\", \"priority\": \"medium\"}\n7. {\"test_case\": \"Verify that the game correctly identifies when the puzzle is solved\", \"priority\": \"medium\"}\n8. {\"test_case\": \"Check if game timer resets after each puzzle\", \"priority\": \"medium\"}\n9. {\"test_case\": \"Check if the game recognizes when no more moves are possible\", \"priority\": \"low\"}\n10. {\"test_case\": \"Confirm that the game saves progress if a user exits and returns\", \"priority\": \"low\"}",
+      "priority": "high",
+      "status": "failed",
+      "artifacts": {
+        "error": "Page.goto: Target page, context or browser has been closed\nCall log:\n  - navigating to \"https://play.ezygamers.com/\", waiting until \"load\"\n"
+      }
+    },
+    {
+      "test_case": "1. {\"test_case\": \"Validate that the game loads and is playable\", \"priority\": \"high\"}\n2. {\"test_case\": \"Confirm that the matchstick puzzle can be solved in 2 steps\", \"priority\": \"high\"}\n3. {\"test_case\": \"Verify that the 2 possible solutions for Matchstick Puzzle 8 are accepted as correct\", \"priority\": \"high\"}\n4. {\"test_case\": \"Check if the UI adjusts well to different screen resolutions\", \"priority\": \"high\"}\n5. {\"test_case\": \"Check if the game handles incorrect solutions properly\", \"priority\": \"medium\"}\n6. {\"test_case\": \"Verify that the game does not accept more than 2 steps for a solution\", \"priority\": \"medium\"}\n7. {\"test_case\": \"Verify that the game correctly identifies when the puzzle is solved\", \"priority\": \"medium\"}\n8. {\"test_case\": \"Check if game timer resets after each puzzle\", \"priority\": \"medium\"}\n9. {\"test_case\": \"Check if the game recognizes when no more moves are possible\", \"priority\": \"low\"}\n10. {\"test_case\": \"Confirm that the game saves progress if a user exits and returns\", \"priority\": \"low\"}",
+      "priority": "high",
+      "status": "failed",
+      "artifacts": {
+        "error": "Page.goto: net::ERR_ABORTED; maybe frame was detached?\nCall log:\n  - navigating to \"https://play.ezygamers.com/\", waiting until \"load\"\n"
+      }
+    }
+  ]
+}

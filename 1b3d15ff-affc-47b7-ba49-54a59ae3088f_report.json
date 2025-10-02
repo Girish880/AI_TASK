@@ -1,0 +1,82 @@
+[
+  {
+    "test_case": "1. {\"test_case\": \"Verify that the game loads correctly without any errors or crashes\", \"priority\": \"high\"}\n2. {\"test_case\": \"Verify that the correct puzzle is presented to the user based on the level or stage of the game\", \"priority\": \"high\"}\n3. {\"test_case\": \"Verify that the sum calculations for each puzzle are correct\", \"priority\": \"high\"}\n4. {\"test_case\": \"Verify that the game UI is responsive and adapts according to different screen resolutions\", \"priority\": \"high\"}\n5. {\"test_case\": \"Verify that the game provides appropriate feedback when the user makes a correct or incorrect move\", \"priority\": \"medium\"}\n6. {\"test_case\": \"Verify that the game saves the player's progress after clearing each stage\", \"priority\": \"medium\"}\n7. {\"test_case\": \"Verify that the game provides hints or solutions, if such a feature is available\", \"priority\": \"medium\"}\n8. {\"test_case\": \"Verify that the game restarts correctly after the user chooses to restart the game or puzzle\", \"priority\": \"medium\"}\n9. {\"test_case\": \"Verify that the game's sound effects and background music, if present, work correctly\", \"priority\": \"low\"}\n10. {\"test_case\": \"Verify that the game's settings (like sound, brightness, etc.) can be adjusted and are saved after closing and reopening the game\", \"priority\": \"low\"}",
+    "priority": "high",
+    "status": "passed",
+    "artifacts": {
+      "screenshot": "C:\\Users\\Girish\\OneDrive\\Desktop\\rag\\artifacts\\1b3d15ff-affc-47b7-ba49-54a59ae3088f_1____test_case_.png"
+    }
+  },
+  {
+    "test_case": "1. {\"test_case\": \"Verify that the game loads correctly without any errors or crashes\", \"priority\": \"high\"}\n2. {\"test_case\": \"Verify that the correct puzzle is presented to the user based on the level or stage of the game\", \"priority\": \"high\"}\n3. {\"test_case\": \"Verify that the sum calculations for each puzzle are correct\", \"priority\": \"high\"}\n4. {\"test_case\": \"Verify that the game UI is responsive and adapts according to different screen resolutions\", \"priority\": \"high\"}\n5. {\"test_case\": \"Verify that the game provides appropriate feedback when the user makes a correct or incorrect move\", \"priority\": \"medium\"}\n6. {\"test_case\": \"Verify that the game saves the player's progress after clearing each stage\", \"priority\": \"medium\"}\n7. {\"test_case\": \"Verify that the game provides hints or solutions, if such a feature is available\", \"priority\": \"medium\"}\n8. {\"test_case\": \"Verify that the game restarts correctly after the user chooses to restart the game or puzzle\", \"priority\": \"medium\"}\n9. {\"test_case\": \"Verify that the game's sound effects and background music, if present, work correctly\", \"priority\": \"low\"}\n10. {\"test_case\": \"Verify that the game's settings (like sound, brightness, etc.) can be adjusted and are saved after closing and reopening the game\", \"priority\": \"low\"}",
+    "priority": "high",
+    "status": "passed",
+    "artifacts": {
+      "screenshot": "C:\\Users\\Girish\\OneDrive\\Desktop\\rag\\artifacts\\1b3d15ff-affc-47b7-ba49-54a59ae3088f_1____test_case_.png"
+    }
+  },
+  {
+    "test_case": "1. {\"test_case\": \"Verify that the game loads correctly without any errors or crashes\", \"priority\": \"high\"}\n2. {\"test_case\": \"Verify that the correct puzzle is presented to the user based on the level or stage of the game\", \"priority\": \"high\"}\n3. {\"test_case\": \"Verify that the sum calculations for each puzzle are correct\", \"priority\": \"high\"}\n4. {\"test_case\": \"Verify that the game UI is responsive and adapts according to different screen resolutions\", \"priority\": \"high\"}\n5. {\"test_case\": \"Verify that the game provides appropriate feedback when the user makes a correct or incorrect move\", \"priority\": \"medium\"}\n6. {\"test_case\": \"Verify that the game saves the player's progress after clearing each stage\", \"priority\": \"medium\"}\n7. {\"test_case\": \"Verify that the game provides hints or solutions, if such a feature is available\", \"priority\": \"medium\"}\n8. {\"test_case\": \"Verify that the game restarts correctly after the user chooses to restart the game or puzzle\", \"priority\": \"medium\"}\n9. {\"test_case\": \"Verify that the game's sound effects and background music, if present, work correctly\", \"priority\": \"low\"}\n10. {\"test_case\": \"Verify that the game's settings (like sound, brightness, etc.) can be adjusted and are saved after closing and reopening the game\", \"priority\": \"low\"}",
+    "priority": "high",
+    "status": "failed",
+    "artifacts": {
+      "error": "Page.goto: Target page, context or browser has been closed\nCall log:\n  - navigating to \"https://play.ezygamers.com/\", waiting until \"load\"\n"
+    }
+  },
+  {
+    "test_case": "1. {\"test_case\": \"Verify that the game loads correctly without any errors or crashes\", \"priority\": \"high\"}\n2. {\"test_case\": \"Verify that the correct puzzle is presented to the user based on the level or stage of the game\", \"priority\": \"high\"}\n3. {\"test_case\": \"Verify that the sum calculations for each puzzle are correct\", \"priority\": \"high\"}\n4. {\"test_case\": \"Verify that the game UI is responsive and adapts according to different screen resolutions\", \"priority\": \"high\"}\n5. {\"test_case\": \"Verify that the game provides appropriate feedback when the user makes a correct or incorrect move\", \"priority\": \"medium\"}\n6. {\"test_case\": \"Verify that the game saves the player's progress after clearing each stage\", \"priority\": \"medium\"}\n7. {\"test_case\": \"Verify that the game provides hints or solutions, if such a feature is available\", \"priority\": \"medium\"}\n8. {\"test_case\": \"Verify that the game restarts correctly after the user chooses to restart the game or puzzle\", \"priority\": \"medium\"}\n9. {\"test_case\": \"Verify that the game's sound effects and background music, if present, work correctly\", \"priority\": \"low\"}\n10. {\"test_case\": \"Verify that the game's settings (like sound, brightness, etc.) can be adjusted and are saved after closing and reopening the game\", \"priority\": \"low\"}",
+    "priority": "high",
+    "status": "failed",
+    "artifacts": {
+      "error": "Page.goto: Target page, context or browser has been closed\nCall log:\n  - navigating to \"https://play.ezygamers.com/\", waiting until \"load\"\n"
+    }
+  },
+  {
+    "test_case": "1. {\"test_case\": \"Verify that the game loads correctly without any errors or crashes\", \"priority\": \"high\"}\n2. {\"test_case\": \"Verify that the correct puzzle is presented to the user based on the level or stage of the game\", \"priority\": \"high\"}\n3. {\"test_case\": \"Verify that the sum calculations for each puzzle are correct\", \"priority\": \"high\"}\n4. {\"test_case\": \"Verify that the game UI is responsive and adapts according to different screen resolutions\", \"priority\": \"high\"}\n5. {\"test_case\": \"Verify that the game provides appropriate feedback when the user makes a correct or incorrect move\", \"priority\": \"medium\"}\n6. {\"test_case\": \"Verify that the game saves the player's progress after clearing each stage\", \"priority\": \"medium\"}\n7. {\"test_case\": \"Verify that the game provides hints or solutions, if such a feature is available\", \"priority\": \"medium\"}\n8. {\"test_case\": \"Verify that the game restarts correctly after the user chooses to restart the game or puzzle\", \"priority\": \"medium\"}\n9. {\"test_case\": \"Verify that the game's sound effects and background music, if present, work correctly\", \"priority\": \"low\"}\n10. {\"test_case\": \"Verify that the game's settings (like sound, brightness, etc.) can be adjusted and are saved after closing and reopening the game\", \"priority\": \"low\"}",
+    "priority": "high",
+    "status": "failed",
+    "artifacts": {
+      "error": "Page.goto: Target page, context or browser has been closed\nCall log:\n  - navigating to \"https://play.ezygamers.com/\", waiting until \"load\"\n"
+    }
+  },
+  {
+    "test_case": "1. {\"test_case\": \"Verify that the game loads correctly without any errors or crashes\", \"priority\": \"high\"}\n2. {\"test_case\": \"Verify that the correct puzzle is presented to the user based on the level or stage of the game\", \"priority\": \"high\"}\n3. {\"test_case\": \"Verify that the sum calculations for each puzzle are correct\", \"priority\": \"high\"}\n4. {\"test_case\": \"Verify that the game UI is responsive and adapts according to different screen resolutions\", \"priority\": \"high\"}\n5. {\"test_case\": \"Verify that the game provides appropriate feedback when the user makes a correct or incorrect move\", \"priority\": \"medium\"}\n6. {\"test_case\": \"Verify that the game saves the player's progress after clearing each stage\", \"priority\": \"medium\"}\n7. {\"test_case\": \"Verify that the game provides hints or solutions, if such a feature is available\", \"priority\": \"medium\"}\n8. {\"test_case\": \"Verify that the game restarts correctly after the user chooses to restart the game or puzzle\", \"priority\": \"medium\"}\n9. {\"test_case\": \"Verify that the game's sound effects and background music, if present, work correctly\", \"priority\": \"low\"}\n10. {\"test_case\": \"Verify that the game's settings (like sound, brightness, etc.) can be adjusted and are saved after closing and reopening the game\", \"priority\": \"low\"}",
+    "priority": "high",
+    "status": "failed",
+    "artifacts": {
+      "error": "Page.goto: Target page, context or browser has been closed\nCall log:\n  - navigating to \"https://play.ezygamers.com/\", waiting until \"load\"\n"
+    }
+  },
+  {
+    "test_case": "1. {\"test_case\": \"Verify that the game loads correctly without any errors or crashes\", \"priority\": \"high\"}\n2. {\"test_case\": \"Verify that the correct puzzle is presented to the user based on the level or stage of the game\", \"priority\": \"high\"}\n3. {\"test_case\": \"Verify that the sum calculations for each puzzle are correct\", \"priority\": \"high\"}\n4. {\"test_case\": \"Verify that the game UI is responsive and adapts according to different screen resolutions\", \"priority\": \"high\"}\n5. {\"test_case\": \"Verify that the game provides appropriate feedback when the user makes a correct or incorrect move\", \"priority\": \"medium\"}\n6. {\"test_case\": \"Verify that the game saves the player's progress after clearing each stage\", \"priority\": \"medium\"}\n7. {\"test_case\": \"Verify that the game provides hints or solutions, if such a feature is available\", \"priority\": \"medium\"}\n8. {\"test_case\": \"Verify that the game restarts correctly after the user chooses to restart the game or puzzle\", \"priority\": \"medium\"}\n9. {\"test_case\": \"Verify that the game's sound effects and background music, if present, work correctly\", \"priority\": \"low\"}\n10. {\"test_case\": \"Verify that the game's settings (like sound, brightness, etc.) can be adjusted and are saved after closing and reopening the game\", \"priority\": \"low\"}",
+    "priority": "high",
+    "status": "failed",
+    "artifacts": {
+      "error": "Page.goto: Target page, context or browser has been closed\nCall log:\n  - navigating to \"https://play.ezygamers.com/\", waiting until \"load\"\n"
+    }
+  },
+  {
+    "test_case": "1. {\"test_case\": \"Verify that the game loads correctly without any errors or crashes\", \"priority\": \"high\"}\n2. {\"test_case\": \"Verify that the correct puzzle is presented to the user based on the level or stage of the game\", \"priority\": \"high\"}\n3. {\"test_case\": \"Verify that the sum calculations for each puzzle are correct\", \"priority\": \"high\"}\n4. {\"test_case\": \"Verify that the game UI is responsive and adapts according to different screen resolutions\", \"priority\": \"high\"}\n5. {\"test_case\": \"Verify that the game provides appropriate feedback when the user makes a correct or incorrect move\", \"priority\": \"medium\"}\n6. {\"test_case\": \"Verify that the game saves the player's progress after clearing each stage\", \"priority\": \"medium\"}\n7. {\"test_case\": \"Verify that the game provides hints or solutions, if such a feature is available\", \"priority\": \"medium\"}\n8. {\"test_case\": \"Verify that the game restarts correctly after the user chooses to restart the game or puzzle\", \"priority\": \"medium\"}\n9. {\"test_case\": \"Verify that the game's sound effects and background music, if present, work correctly\", \"priority\": \"low\"}\n10. {\"test_case\": \"Verify that the game's settings (like sound, brightness, etc.) can be adjusted and are saved after closing and reopening the game\", \"priority\": \"low\"}",
+    "priority": "high",
+    "status": "failed",
+    "artifacts": {
+      "error": "Page.goto: Target page, context or browser has been closed\nCall log:\n  - navigating to \"https://play.ezygamers.com/\", waiting until \"load\"\n"
+    }
+  },
+  {
+    "test_case": "1. {\"test_case\": \"Verify that the game loads correctly without any errors or crashes\", \"priority\": \"high\"}\n2. {\"test_case\": \"Verify that the correct puzzle is presented to the user based on the level or stage of the game\", \"priority\": \"high\"}\n3. {\"test_case\": \"Verify that the sum calculations for each puzzle are correct\", \"priority\": \"high\"}\n4. {\"test_case\": \"Verify that the game UI is responsive and adapts according to different screen resolutions\", \"priority\": \"high\"}\n5. {\"test_case\": \"Verify that the game provides appropriate feedback when the user makes a correct or incorrect move\", \"priority\": \"medium\"}\n6. {\"test_case\": \"Verify that the game saves the player's progress after clearing each stage\", \"priority\": \"medium\"}\n7. {\"test_case\": \"Verify that the game provides hints or solutions, if such a feature is available\", \"priority\": \"medium\"}\n8. {\"test_case\": \"Verify that the game restarts correctly after the user chooses to restart the game or puzzle\", \"priority\": \"medium\"}\n9. {\"test_case\": \"Verify that the game's sound effects and background music, if present, work correctly\", \"priority\": \"low\"}\n10. {\"test_case\": \"Verify that the game's settings (like sound, brightness, etc.) can be adjusted and are saved after closing and reopening the game\", \"priority\": \"low\"}",
+    "priority": "high",
+    "status": "failed",
+    "artifacts": {
+      "error": "Page.goto: Target page, context or browser has been closed\nCall log:\n  - navigating to \"https://play.ezygamers.com/\", waiting until \"load\"\n"
+    }
+  },
+  {
+    "test_case": "1. {\"test_case\": \"Verify that the game loads correctly without any errors or crashes\", \"priority\": \"high\"}\n2. {\"test_case\": \"Verify that the correct puzzle is presented to the user based on the level or stage of the game\", \"priority\": \"high\"}\n3. {\"test_case\": \"Verify that the sum calculations for each puzzle are correct\", \"priority\": \"high\"}\n4. {\"test_case\": \"Verify that the game UI is responsive and adapts according to different screen resolutions\", \"priority\": \"high\"}\n5. {\"test_case\": \"Verify that the game provides appropriate feedback when the user makes a correct or incorrect move\", \"priority\": \"medium\"}\n6. {\"test_case\": \"Verify that the game saves the player's progress after clearing each stage\", \"priority\": \"medium\"}\n7. {\"test_case\": \"Verify that the game provides hints or solutions, if such a feature is available\", \"priority\": \"medium\"}\n8. {\"test_case\": \"Verify that the game restarts correctly after the user chooses to restart the game or puzzle\", \"priority\": \"medium\"}\n9. {\"test_case\": \"Verify that the game's sound effects and background music, if present, work correctly\", \"priority\": \"low\"}\n10. {\"test_case\": \"Verify that the game's settings (like sound, brightness, etc.) can be adjusted and are saved after closing and reopening the game\", \"priority\": \"low\"}",
+    "priority": "high",
+    "status": "failed",
+    "artifacts": {
+      "error": "Page.goto: Target page, context or browser has been closed\nCall log:\n  - navigating to \"https://play.ezygamers.com/\", waiting until \"load\"\n"
+    }
+  }
+]

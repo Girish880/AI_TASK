@@ -1,0 +1,91 @@
+{
+  "run_id": "1f980298-60d2-4bdc-a95f-8df5ae0cf005",
+  "summary": {
+    "total_tests": 10,
+    "passed": 10,
+    "failed": 0,
+    "pass_rate": "100.0%"
+  },
+  "results": [
+    {
+      "test_case": "1. {\"test_case\": \"Verify the game loads correctly and is playable\", \"priority\": \"high\"}\n2. {\"test_case\": \"Check if the solution for Matchstick Puzzle 3 in the PDF is correctly identified by the game\", \"priority\": \"high\"}\n3. {\"test_case\": \"Verify that the sum calculations for the matchstick puzzle are accurate\", \"priority\": \"high\"}\n4. {\"test_case\": \"Test the game on multiple screen resolutions to ensure UI compatibility\", \"priority\": \"high\"}\n5. {\"test_case\": \"Check if the game saves progress correctly\", \"priority\": \"medium\"}\n6. {\"test_case\": \"Verify the game handles invalid puzzle solutions appropriately\", \"priority\": \"medium\"}\n7. {\"test_case\": \"Test the game's response time when calculating matchstick puzzle solutions\", \"priority\": \"medium\"}\n8. {\"test_case\": \"Check the game's error handling when an incorrect number of matchsticks is used\", \"priority\": \"medium\"}\n9. {\"test_case\": \"Verify the game's functionality when multiple users are playing simultaneously\", \"priority\": \"low\"}\n10. {\"test_case\": \"Test the game's performance under low bandwidth conditions\", \"priority\": \"low\"}",
+      "priority": "high",
+      "status": "passed",
+      "artifacts": {
+        "screenshot": "C:\\Users\\Girish\\OneDrive\\Desktop\\rag\\artifacts\\1f980298-60d2-4bdc-a95f-8df5ae0cf005_1_1____test_case____Verify_the_game_loads_correctly_.png"
+      }
+    },
+    {
+      "test_case": "1. {\"test_case\": \"Verify the game loads correctly and is playable\", \"priority\": \"high\"}\n2. {\"test_case\": \"Check if the solution for Matchstick Puzzle 3 in the PDF is correctly identified by the game\", \"priority\": \"high\"}\n3. {\"test_case\": \"Verify that the sum calculations for the matchstick puzzle are accurate\", \"priority\": \"high\"}\n4. {\"test_case\": \"Test the game on multiple screen resolutions to ensure UI compatibility\", \"priority\": \"high\"}\n5. {\"test_case\": \"Check if the game saves progress correctly\", \"priority\": \"medium\"}\n6. {\"test_case\": \"Verify the game handles invalid puzzle solutions appropriately\", \"priority\": \"medium\"}\n7. {\"test_case\": \"Test the game's response time when calculating matchstick puzzle solutions\", \"priority\": \"medium\"}\n8. {\"test_case\": \"Check the game's error handling when an incorrect number of matchsticks is used\", \"priority\": \"medium\"}\n9. {\"test_case\": \"Verify the game's functionality when multiple users are playing simultaneously\", \"priority\": \"low\"}\n10. {\"test_case\": \"Test the game's performance under low bandwidth conditions\", \"priority\": \"low\"}",
+      "priority": "high",
+      "status": "passed",
+      "artifacts": {
+        "screenshot": "C:\\Users\\Girish\\OneDrive\\Desktop\\rag\\artifacts\\1f980298-60d2-4bdc-a95f-8df5ae0cf005_2_1____test_case____Verify_the_game_loads_correctly_.png"
+      }
+    },
+    {
+      "test_case": "1. {\"test_case\": \"Verify the game loads correctly and is playable\", \"priority\": \"high\"}\n2. {\"test_case\": \"Check if the solution for Matchstick Puzzle 3 in the PDF is correctly identified by the game\", \"priority\": \"high\"}\n3. {\"test_case\": \"Verify that the sum calculations for the matchstick puzzle are accurate\", \"priority\": \"high\"}\n4. {\"test_case\": \"Test the game on multiple screen resolutions to ensure UI compatibility\", \"priority\": \"high\"}\n5. {\"test_case\": \"Check if the game saves progress correctly\", \"priority\": \"medium\"}\n6. {\"test_case\": \"Verify the game handles invalid puzzle solutions appropriately\", \"priority\": \"medium\"}\n7. {\"test_case\": \"Test the game's response time when calculating matchstick puzzle solutions\", \"priority\": \"medium\"}\n8. {\"test_case\": \"Check the game's error handling when an incorrect number of matchsticks is used\", \"priority\": \"medium\"}\n9. {\"test_case\": \"Verify the game's functionality when multiple users are playing simultaneously\", \"priority\": \"low\"}\n10. {\"test_case\": \"Test the game's performance under low bandwidth conditions\", \"priority\": \"low\"}",
+      "priority": "high",
+      "status": "passed",
+      "artifacts": {
+        "screenshot": "C:\\Users\\Girish\\OneDrive\\Desktop\\rag\\artifacts\\1f980298-60d2-4bdc-a95f-8df5ae0cf005_3_1____test_case____Verify_the_game_loads_correctly_.png"
+      }
+    },
+    {
+      "test_case": "1. {\"test_case\": \"Verify the game loads correctly and is playable\", \"priority\": \"high\"}\n2. {\"test_case\": \"Check if the solution for Matchstick Puzzle 3 in the PDF is correctly identified by the game\", \"priority\": \"high\"}\n3. {\"test_case\": \"Verify that the sum calculations for the matchstick puzzle are accurate\", \"priority\": \"high\"}\n4. {\"test_case\": \"Test the game on multiple screen resolutions to ensure UI compatibility\", \"priority\": \"high\"}\n5. {\"test_case\": \"Check if the game saves progress correctly\", \"priority\": \"medium\"}\n6. {\"test_case\": \"Verify the game handles invalid puzzle solutions appropriately\", \"priority\": \"medium\"}\n7. {\"test_case\": \"Test the game's response time when calculating matchstick puzzle solutions\", \"priority\": \"medium\"}\n8. {\"test_case\": \"Check the game's error handling when an incorrect number of matchsticks is used\", \"priority\": \"medium\"}\n9. {\"test_case\": \"Verify the game's functionality when multiple users are playing simultaneously\", \"priority\": \"low\"}\n10. {\"test_case\": \"Test the game's performance under low bandwidth conditions\", \"priority\": \"low\"}",
+      "priority": "high",
+      "status": "passed",
+      "artifacts": {
+        "screenshot": "C:\\Users\\Girish\\OneDrive\\Desktop\\rag\\artifacts\\1f980298-60d2-4bdc-a95f-8df5ae0cf005_4_1____test_case____Verify_the_game_loads_correctly_.png"
+      }
+    },
+    {
+      "test_case": "1. {\"test_case\": \"Verify the game loads correctly and is playable\", \"priority\": \"high\"}\n2. {\"test_case\": \"Check if the solution for Matchstick Puzzle 3 in the PDF is correctly identified by the game\", \"priority\": \"high\"}\n3. {\"test_case\": \"Verify that the sum calculations for the matchstick puzzle are accurate\", \"priority\": \"high\"}\n4. {\"test_case\": \"Test the game on multiple screen resolutions to ensure UI compatibility\", \"priority\": \"high\"}\n5. {\"test_case\": \"Check if the game saves progress correctly\", \"priority\": \"medium\"}\n6. {\"test_case\": \"Verify the game handles invalid puzzle solutions appropriately\", \"priority\": \"medium\"}\n7. {\"test_case\": \"Test the game's response time when calculating matchstick puzzle solutions\", \"priority\": \"medium\"}\n8. {\"test_case\": \"Check the game's error handling when an incorrect number of matchsticks is used\", \"priority\": \"medium\"}\n9. {\"test_case\": \"Verify the game's functionality when multiple users are playing simultaneously\", \"priority\": \"low\"}\n10. {\"test_case\": \"Test the game's performance under low bandwidth conditions\", \"priority\": \"low\"}",
+      "priority": "high",
+      "status": "passed",
+      "artifacts": {
+        "screenshot": "C:\\Users\\Girish\\OneDrive\\Desktop\\rag\\artifacts\\1f980298-60d2-4bdc-a95f-8df5ae0cf005_5_1____test_case____Verify_the_game_loads_correctly_.png"
+      }
+    },
+    {
+      "test_case": "1. {\"test_case\": \"Verify the game loads correctly and is playable\", \"priority\": \"high\"}\n2. {\"test_case\": \"Check if the solution for Matchstick Puzzle 3 in the PDF is correctly identified by the game\", \"priority\": \"high\"}\n3. {\"test_case\": \"Verify that the sum calculations for the matchstick puzzle are accurate\", \"priority\": \"high\"}\n4. {\"test_case\": \"Test the game on multiple screen resolutions to ensure UI compatibility\", \"priority\": \"high\"}\n5. {\"test_case\": \"Check if the game saves progress correctly\", \"priority\": \"medium\"}\n6. {\"test_case\": \"Verify the game handles invalid puzzle solutions appropriately\", \"priority\": \"medium\"}\n7. {\"test_case\": \"Test the game's response time when calculating matchstick puzzle solutions\", \"priority\": \"medium\"}\n8. {\"test_case\": \"Check the game's error handling when an incorrect number of matchsticks is used\", \"priority\": \"medium\"}\n9. {\"test_case\": \"Verify the game's functionality when multiple users are playing simultaneously\", \"priority\": \"low\"}\n10. {\"test_case\": \"Test the game's performance under low bandwidth conditions\", \"priority\": \"low\"}",
+      "priority": "high",
+      "status": "passed",
+      "artifacts": {
+        "screenshot": "C:\\Users\\Girish\\OneDrive\\Desktop\\rag\\artifacts\\1f980298-60d2-4bdc-a95f-8df5ae0cf005_6_1____test_case____Verify_the_game_loads_correctly_.png"
+      }
+    },
+    {
+      "test_case": "1. {\"test_case\": \"Verify the game loads correctly and is playable\", \"priority\": \"high\"}\n2. {\"test_case\": \"Check if the solution for Matchstick Puzzle 3 in the PDF is correctly identified by the game\", \"priority\": \"high\"}\n3. {\"test_case\": \"Verify that the sum calculations for the matchstick puzzle are accurate\", \"priority\": \"high\"}\n4. {\"test_case\": \"Test the game on multiple screen resolutions to ensure UI compatibility\", \"priority\": \"high\"}\n5. {\"test_case\": \"Check if the game saves progress correctly\", \"priority\": \"medium\"}\n6. {\"test_case\": \"Verify the game handles invalid puzzle solutions appropriately\", \"priority\": \"medium\"}\n7. {\"test_case\": \"Test the game's response time when calculating matchstick puzzle solutions\", \"priority\": \"medium\"}\n8. {\"test_case\": \"Check the game's error handling when an incorrect number of matchsticks is used\", \"priority\": \"medium\"}\n9. {\"test_case\": \"Verify the game's functionality when multiple users are playing simultaneously\", \"priority\": \"low\"}\n10. {\"test_case\": \"Test the game's performance under low bandwidth conditions\", \"priority\": \"low\"}",
+      "priority": "high",
+      "status": "passed",
+      "artifacts": {
+        "screenshot": "C:\\Users\\Girish\\OneDrive\\Desktop\\rag\\artifacts\\1f980298-60d2-4bdc-a95f-8df5ae0cf005_7_1____test_case____Verify_the_game_loads_correctly_.png"
+      }
+    },
+    {
+      "test_case": "1. {\"test_case\": \"Verify the game loads correctly and is playable\", \"priority\": \"high\"}\n2. {\"test_case\": \"Check if the solution for Matchstick Puzzle 3 in the PDF is correctly identified by the game\", \"priority\": \"high\"}\n3. {\"test_case\": \"Verify that the sum calculations for the matchstick puzzle are accurate\", \"priority\": \"high\"}\n4. {\"test_case\": \"Test the game on multiple screen resolutions to ensure UI compatibility\", \"priority\": \"high\"}\n5. {\"test_case\": \"Check if the game saves progress correctly\", \"priority\": \"medium\"}\n6. {\"test_case\": \"Verify the game handles invalid puzzle solutions appropriately\", \"priority\": \"medium\"}\n7. {\"test_case\": \"Test the game's response time when calculating matchstick puzzle solutions\", \"priority\": \"medium\"}\n8. {\"test_case\": \"Check the game's error handling when an incorrect number of matchsticks is used\", \"priority\": \"medium\"}\n9. {\"test_case\": \"Verify the game's functionality when multiple users are playing simultaneously\", \"priority\": \"low\"}\n10. {\"test_case\": \"Test the game's performance under low bandwidth conditions\", \"priority\": \"low\"}",
+      "priority": "high",
+      "status": "passed",
+      "artifacts": {
+        "screenshot": "C:\\Users\\Girish\\OneDrive\\Desktop\\rag\\artifacts\\1f980298-60d2-4bdc-a95f-8df5ae0cf005_8_1____test_case____Verify_the_game_loads_correctly_.png"
+      }
+    },
+    {
+      "test_case": "1. {\"test_case\": \"Verify the game loads correctly and is playable\", \"priority\": \"high\"}\n2. {\"test_case\": \"Check if the solution for Matchstick Puzzle 3 in the PDF is correctly identified by the game\", \"priority\": \"high\"}\n3. {\"test_case\": \"Verify that the sum calculations for the matchstick puzzle are accurate\", \"priority\": \"high\"}\n4. {\"test_case\": \"Test the game on multiple screen resolutions to ensure UI compatibility\", \"priority\": \"high\"}\n5. {\"test_case\": \"Check if the game saves progress correctly\", \"priority\": \"medium\"}\n6. {\"test_case\": \"Verify the game handles invalid puzzle solutions appropriately\", \"priority\": \"medium\"}\n7. {\"test_case\": \"Test the game's response time when calculating matchstick puzzle solutions\", \"priority\": \"medium\"}\n8. {\"test_case\": \"Check the game's error handling when an incorrect number of matchsticks is used\", \"priority\": \"medium\"}\n9. {\"test_case\": \"Verify the game's functionality when multiple users are playing simultaneously\", \"priority\": \"low\"}\n10. {\"test_case\": \"Test the game's performance under low bandwidth conditions\", \"priority\": \"low\"}",
+      "priority": "high",
+      "status": "passed",
+      "artifacts": {
+        "screenshot": "C:\\Users\\Girish\\OneDrive\\Desktop\\rag\\artifacts\\1f980298-60d2-4bdc-a95f-8df5ae0cf005_9_1____test_case____Verify_the_game_loads_correctly_.png"
+      }
+    },
+    {
+      "test_case": "1. {\"test_case\": \"Verify the game loads correctly and is playable\", \"priority\": \"high\"}\n2. {\"test_case\": \"Check if the solution for Matchstick Puzzle 3 in the PDF is correctly identified by the game\", \"priority\": \"high\"}\n3. {\"test_case\": \"Verify that the sum calculations for the matchstick puzzle are accurate\", \"priority\": \"high\"}\n4. {\"test_case\": \"Test the game on multiple screen resolutions to ensure UI compatibility\", \"priority\": \"high\"}\n5. {\"test_case\": \"Check if the game saves progress correctly\", \"priority\": \"medium\"}\n6. {\"test_case\": \"Verify the game handles invalid puzzle solutions appropriately\", \"priority\": \"medium\"}\n7. {\"test_case\": \"Test the game's response time when calculating matchstick puzzle solutions\", \"priority\": \"medium\"}\n8. {\"test_case\": \"Check the game's error handling when an incorrect number of matchsticks is used\", \"priority\": \"medium\"}\n9. {\"test_case\": \"Verify the game's functionality when multiple users are playing simultaneously\", \"priority\": \"low\"}\n10. {\"test_case\": \"Test the game's performance under low bandwidth conditions\", \"priority\": \"low\"}",
+      "priority": "high",
+      "status": "passed",
+      "artifacts": {
+        "screenshot": "C:\\Users\\Girish\\OneDrive\\Desktop\\rag\\artifacts\\1f980298-60d2-4bdc-a95f-8df5ae0cf005_10_1____test_case____Verify_the_game_loads_correctly_.png"
+      }
+    }
+  ]
+}
